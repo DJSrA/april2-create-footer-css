@@ -51,13 +51,11 @@ hr {border: 1px solid rgba(65, 63, 63, 0.64);}
 	height: 340px;
 	float: left;
 	padding-top: 10px;
-	padding-left: 42px;
+	padding-left: 41px;
 	padding-right: 21px;
 	padding-bottom: 46px;
 	margin: 9px;
 }
-
-
 
 .leftCol{
 	width: 159px;
@@ -105,7 +103,7 @@ hr {border: 1px solid rgba(65, 63, 63, 0.64);}
 }
 .holder {
 	display: inline-block;
-	margin-bottom: 15px;
+	margin-bottom: 24px;
 }
 
 .actionButton {
